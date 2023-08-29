@@ -1,3 +1,4 @@
+##This is my very first attempt at creating a DeepRacer model, and I'm just curious to understand how it functions.
 def reward_function(params):
     '''
     Example of rewarding the agent to follow the center line and maintain speed
